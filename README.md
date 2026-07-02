@@ -21,10 +21,8 @@ clinical research and machine learning. My work spans CT-based **radiomics**, de
 GDPR-compliant data de-identification for multicenter respiratory cohorts
 (post-COVID imaging, lung cancer screening, sleep medicine).
 
-- 🔬 Bioinformatician @ **IRBLleida / Hospital Universitari Arnau de Vilanova**
+- 🔬 Bioinformatician
 - 🧠 Deep learning for **imaging biomarkers** and **survival / competing-risks** modeling
-- 🧩 Contributor to **[nnU-Net](https://github.com/MIC-DKFZ/nnUNet)** (MIC-DKFZ) — merged PR [#2995](https://github.com/MIC-DKFZ/nnUNet/pull/2995)
-- 🎓 B.Sc. Biochemistry (U. Córdoba) · M.Sc. Omics Data Analysis (U. Sevilla)
 - 🌍 Español / arabe (native) · English (B2) · Italiano (B1)
 
 ---
@@ -54,14 +52,5 @@ GDPR-compliant data de-identification for multicenter respiratory cohorts
 
 **Domains:** Medical image segmentation · Radiomics (IBSI) · CT foundation models ·
 Survival analysis · DICOM/PACS · HPC (SLURM, CUDA, Apptainer) · Reproducible pipelines
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WElArfaoui&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WElArfaoui&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165">
-</p>
 
 ---
