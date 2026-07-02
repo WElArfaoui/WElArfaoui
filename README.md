@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Bioinformatician · Medical Imaging & Deep Learning</b><br>
-  Translational Research in Respiratory Medicine (TRRM/CIBERES) — IRBLleida · HUAV
 </p>
 
 <p align="center">
@@ -26,7 +25,7 @@ GDPR-compliant data de-identification for multicenter respiratory cohorts
 - 🧠 Deep learning for **imaging biomarkers** and **survival / competing-risks** modeling
 - 🧩 Contributor to **[nnU-Net](https://github.com/MIC-DKFZ/nnUNet)** (MIC-DKFZ) — merged PR [#2995](https://github.com/MIC-DKFZ/nnUNet/pull/2995)
 - 🎓 B.Sc. Biochemistry (U. Córdoba) · M.Sc. Omics Data Analysis (U. Sevilla)
-- 🌍 Español / العربية (native) · English (B2) · Italiano (B1)
+- 🌍 Español / arabe (native) · English (B2) · Italiano (B1)
 
 ---
 
@@ -66,8 +65,3 @@ Survival analysis · DICOM/PACS · HPC (SLURM, CUDA, Apptainer) · Reproducible 
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://irblleida.org/"><img src="https://img.shields.io/badge/IRBLleida-Research-0a66c2?style=flat-square"></a>
-  <a href="https://www.ciberes.org/"><img src="https://img.shields.io/badge/CIBERES-Respiratory-2ea043?style=flat-square"></a>
-</p>
